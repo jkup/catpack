@@ -1,6 +1,6 @@
 {
   "name": "catpack",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Display your package.json file in your terminal",
   "main": "index.js",
   "scripts": {
